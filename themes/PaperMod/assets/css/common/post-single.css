@@ -428,3 +428,13 @@ h6:hover .anchor {
 [dir="rtl"] .paginav .next {
     text-align: left;
 }
+
+
+.backlinks, .related {
+    margin: 20px 0;
+}
+
+.backlinks ul, .related ul{
+    margin: 10px 0;
+    padding-left: 20px;
+}

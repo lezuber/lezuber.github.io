@@ -1,11 +1,10 @@
 ---
-tags:
-- 🌳 Evergreen
-type:
-- Concept
-title: Bidirectional Links
 categories:
+tags:
+- Concept
+- 🌳 Evergreen
 date: 2022-09-28
+title: Bidirectional Links
 lastMod: 2022-10-04
 ---
 A bi-directional link has *social awareness* - **it knows about other pages or 'nodes' that point to it**, and can make them visible on both sides of the link. This turns out to be an extremely powerful tool in PKM-Systems to navigate to ones Knowledge Garden.

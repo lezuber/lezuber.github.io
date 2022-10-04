@@ -1,10 +1,9 @@
 ---
-title: Backlinks -  Harmful or helpful
-type:
-- 🌳 Evergreen
-tags:
 categories:
+tags:
+- 🌳 Evergreen
 date: 2022-09-26
+title: Backlinks -  Harmful or helpful
 lastMod: 2022-10-04
 ---
 Every linking between notes adds a choice to the future you of additional notes to discover when stumbling over an evergreen note. So, each of this choices has an **opportunity cost**, as all linked notes compete for your attention in a world of limited time.

@@ -1,10 +1,9 @@
 ---
-type:
-- 🌳 Evergreen
-title: Zettelkasten Method
-tags:
 categories:
+tags:
+- 🌳 Evergreen
 date: 2022-09-26
+title: Zettelkasten Method
 lastMod: 2022-10-04
 ---
 The Zettelkasten, coined by Niklas Luhmann, is a note-taking method to transform information of any source into a personal, lifetime knowledge graph.
