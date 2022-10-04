@@ -5,8 +5,8 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: lezubers's Knwledge Garden
-    Content: lezubers's Knwledge Garden
+    Title: Lenz' Knowledge Garden
+    Content: Hi there! On this site, youl'll not only find blog posts, but also all related Evergreen Notes, which I have used to create the posts! To understand what I mean by this, read [Zettelkasten Method](/pages/zettelkasten-method/)
 
   socialIcons: # optional
     - name: "github"
@@ -19,6 +19,7 @@ params:
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
+  ShowAllPagesInArchive: false
 
 outputs:
   home:
@@ -32,17 +33,17 @@ outputs:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
       weight: 20
     - identifier: archive
       name: Archive

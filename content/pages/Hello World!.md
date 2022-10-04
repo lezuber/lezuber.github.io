@@ -1,13 +1,11 @@
 ---
-date: 2012-04-06
+date: 2022-10-04
 type:
 - Blogpost
-category:
-- Blog Updates
+categories:
+- Blogpost
 title: Hello World!
 tags:
-categories:
-- Blog Updates
 lastMod: 2022-10-04
 ---
 ## Hi there! Hey you!
