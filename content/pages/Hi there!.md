@@ -1,6 +1,6 @@
 ---
 categories:
-- Blogpost
+- Updates
 tags:
 - Blogpost
 date: 2022-10-04
