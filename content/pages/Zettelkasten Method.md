@@ -1,56 +1,39 @@
 ---
 categories:
 tags:
-- 🌳 Evergreen
 date: 2022-09-26
 title: Zettelkasten Method
-lastMod: 2022-10-04
+lastMod: 2022-10-07
 ---
-The Zettelkasten, coined by Niklas Luhmann, is a note-taking method to transform information of any source into a personal, lifetime knowledge graph.
+Your brain does not sort knowledge in a hierarchy like folders or categories. It's much more fluid. It creates **links** between individual, atomic thoughts like memories, ideas and concepts. These **links** are very powerful to jump between very different areas of your memory. What if we could replicate this linking in our notes as well - creating **your second brain** that works just like your main one, like a friend helping you to organise your thoughts.
 
-As an inspirational example, at one point in his life he was offered a full professorship position as a result of his impressive work to that date. The only problem: *he neither had a PhD nor Habilitation*. S**o, he wrote both in less than a year!** How could he be so productive?
+The Zettelkasten, coined by Niklas Luhmann, is a note-taking approach to transform information of any source into your personal, lifetime knowledge graph - linking your ideas together just like your brain does.
 
-One might ask, how such a tool can be useful for someone not following a scholar career. Still, writing down ones knowledge in a structured, well organised way can have tremendous benefits in ones life. Not only **helps the note-taking process significantly both for comprehension and memorisation of learnings**.
+To make this possible, it is crucial to keep every note **atomic**, see also [Atomicity of evergreen notes]({{< ref "/pages/Atomicity of evergreen notes" >}}). Personally, I call my very similar kind of notes [🌳 Evergreen Note]({{< ref "/pages/🌳 Evergreen Note" >}})s.
 
-But also, imagine having a second brain of **all your knowledge accessible at your fingertips**. Hence, such a method can have a huge benefit for every knowledge-worker, for everyone proceeding a career that involves lifetime learning.
+But the true power of such notes is their **linking**. There is no explicit hierarchy. Notes are linked to one another, in my case using Backlinks. That way, a beautiful Knowledge Graph is implicitly being created.
 
-However, most classic note-taking approaches have tremendous flaws. Everyone knows the feeling of not either not understanding a note written a long time ago, not finding it, or even forgetting its existence.
 
-The key problem is that **most approaches do not reflect the way our brain works**.
 
-Does your brain think in nested folder structures?
-Do you go back in time on a long mental timeline, when you search for knowledge?
+However, not all notes I take are that atomic and *polished*. And they don't have to be! Typically, a Zettelkasten system contains other types of notes as well. But those notes should be kept separate from your Evergreen notes.
+My adoption of the Zettelkasten system uses primarily the following types of notes:
 
-The Zettelkasten method divides your knowledge into more temporary notes, and very well organised permanent notes which are stored in an efficiently linked way. Having a graph like structure of permanent notes allows to create, and later find, connections between ideas and thoughts that would never be possible in a more classical approach.
+  + [🌳 Evergreen Note]({{< ref "/pages/🌳 Evergreen Note" >}})s as outlined above.
 
-Temporary notes are divided as follows:
+  + 💭 Fleeting Notes for thoughts I want to write down, but don't have a particular structure or objective. Mostly, this category consists of one **Journal Note** per day. That way, I create a written, connected memory of my fleeting thoughts.
 
-  + 🌳 Evergreen
+  + 💪 Project Notes for all notes that are sort of fleeting, but have a clear shared objective I can group them to.
 
-  + 💭 Fleeting Note
+  + 📚 Literature Notes for structured summaries of any type of media I consume. Not only written things like 📖 Books or 🧑‍💻 Blogpost s, but also e.g. 🎬 Movies,  🎙Podcasts and 🧑‍🏫 Courses.
 
-  + 📚 Literature Notes
+  + 
 
-  + 💪 Project Notes
 
-🌳 Evergreen (also called permanent notes) are the holy grail of the Zettelkasten method. They consist of all notes that are supposed to last a lifetime.
 
-  + While creating new Evergreens, an important step is to think and search for other related nodes in the Zettelkasten and link to them, so that the graph / garden of Zettel is steadily growing interconnected.
+## Sources & Inspirations
 
-  + Further, it often makes sense to create [Implicit Nodes by Backlinking]({{< ref "/pages/Implicit Nodes by Backlinking" >}}) to have another dimension to explore the graph.
-
-  + However, it is always important to use Linking with cation, as each Link and Backlink has a opportunity cost. -> [Backlinks -  Harmful or helpful]({{< ref "/pages/Backlinks -  Harmful or helpful" >}})
-
-Missing pieces in this note (WIP):
-
-  + 📚 Literature Notes
-
-  + Overview of the currently relevant PKM tools
-
-  + Using templates efficiently in PKMs
-
-## Sources
-
-  + Das Zettelkasten Prinzip / How to take smart notes
+  + https://zettelkasten.de/introduction/
 
   + [Andy Matuschak's public zettelkasten](https://notes.andymatuschak.org/Evergreen_notes)
+
+

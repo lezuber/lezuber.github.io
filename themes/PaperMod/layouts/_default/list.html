@@ -29,7 +29,7 @@
 
       {{- if .IsHome }}
         {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-        {{- $pages = where $pages "Params.tags" "intersect" (slice "Blogpost") }}
+        {{- $pages = where $pages "Params.tags" "intersect" (slice "⌨️ My Blogpost") }}
       {{- end }}
 
       {{- $paginator := .Paginate $pages }}
