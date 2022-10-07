@@ -26,7 +26,7 @@ My adoption of the Zettelkasten system uses primarily the following types of not
 
   + 📚 Literature Notes for structured summaries of any type of media I consume. Not only written things like 📖 Books or 🧑‍💻 Blogpost s, but also e.g. 🎬 Movies,  🎙Podcasts and 🧑‍🏫 Courses.
 
-  + 
+  + ⌨️ My Blogpost for blogposts, that are automatically converted into posts at [lezuber.com](lezuber.com).
 
 
 
