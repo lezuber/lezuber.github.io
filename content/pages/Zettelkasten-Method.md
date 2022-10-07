@@ -9,7 +9,7 @@ Your brain does not sort knowledge in a hierarchy like folders or categories. It
 
 The Zettelkasten, coined by Niklas Luhmann, is a note-taking approach to transform information of any source into your personal, lifetime knowledge graph - linking your ideas together just like your brain does.
 
-To make this possible, it is crucial to keep every note **atomic**, see also [Atomicity of evergreen notes]({{< ref "/pages/Atomicity of evergreen notes" >}}). Personally, I call my very similar kind of notes [🌳 Evergreen Note]({{< ref "/pages/🌳 Evergreen Note" >}})s.
+To make this possible, it is crucial to keep every note **atomic**, see also [Atomicity of evergreen notes]({{< ref "/pages/Atomicity-of-evergreen-notes" >}}). Personally, I call my very similar kind of notes [🌳 Evergreen Note]({{< ref "/pages/Evergreen-Note" >}})s.
 
 But the true power of such notes is their **linking**. There is no explicit hierarchy. Notes are linked to one another, in my case using Backlinks. That way, a beautiful Knowledge Graph is implicitly being created.
 
@@ -18,7 +18,7 @@ But the true power of such notes is their **linking**. There is no explicit hier
 However, not all notes I take are that atomic and *polished*. And they don't have to be! Typically, a Zettelkasten system contains other types of notes as well. But those notes should be kept separate from your Evergreen notes.
 My adoption of the Zettelkasten system uses primarily the following types of notes:
 
-  + [🌳 Evergreen Note]({{< ref "/pages/🌳 Evergreen Note" >}})s as outlined above.
+  + [🌳 Evergreen Note]({{< ref "/pages/Evergreen-Note" >}})s as outlined above.
 
   + 💭 Fleeting Notes for thoughts I want to write down, but don't have a particular structure or objective. Mostly, this category consists of one **Journal Note** per day. That way, I create a written, connected memory of my fleeting thoughts.
 
