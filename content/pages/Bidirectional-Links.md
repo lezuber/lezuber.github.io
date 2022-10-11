@@ -26,7 +26,7 @@ To the best of my knowledge, Roam was the first majorly adopted tool supporting 
 
 ## Related Notes
 
-  + Bi-directional Links have an opportunity cost. See: Backlinks - Harmful or helpful
+  + Bi-directional Links have an opportunity cost. See: [Backlinks - Harmful or helpful]({{< ref "/pages/Backlinks---Harmful-or-helpful" >}})
 
   + [Implicit Notes by Backlinking]({{< ref "/pages/Implicit-Notes-by-Backlinking" >}}) are supercharging this feature.
 

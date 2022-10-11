@@ -112,8 +112,7 @@ Here is a lit of three great tools which support this journaling approach
 
 
 ## Related [🌳 Evergreen Note]({{< ref "/pages/Evergreen-Note" >}})s:
--> [What is a 🌳 Evergreen Note?](🌳 Evergreen Note)
 
   + [Implicit Notes by Backlinking]({{< ref "/pages/Implicit-Notes-by-Backlinking" >}})
 
-  + Backlinks - Harmful or helpful
+  + [Backlinks - Harmful or helpful]({{< ref "/pages/Backlinks---Harmful-or-helpful" >}})
