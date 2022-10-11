@@ -3,7 +3,7 @@ categories:
 tags:
 - 🌳 Evergreen Note
 date: 2022-09-27
-title: Implicit Nodes by Backlinking
+title: Implicit Notes by Backlinking
 lastMod: 2022-10-07
 ---
 A very powerful technique to organise the knowledge is to steadily create backlinks to nodes which don't even exist yet. This can include things like Persons, Places, Movies, Concepts, and many more.
