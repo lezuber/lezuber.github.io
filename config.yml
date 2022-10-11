@@ -1,4 +1,5 @@
 baseURL: https://lezuber.com
+disqusShortname: lezuber
 languageCode: en-us
 title: Lenz Zuber
 theme: "PaperMod"
